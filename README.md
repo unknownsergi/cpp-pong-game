@@ -1,3 +1,3 @@
 # cpp-pong-game
 
-Simple Infinite Pong Game in C++.
+Simple Infinite Pong Game made with SFML in C++.
